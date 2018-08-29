@@ -1,0 +1,27 @@
+{
+  "name": "bamazonmysql",
+  "version": "1.0.0",
+  "description": "HW 12 Node.js &amp; MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svigil/bamazonMySQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svigil/bamazonMySQL/issues"
+  },
+  "homepage": "https://github.com/svigil/bamazonMySQL#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "colors": "^1.3.2",
+    "console.table": "^0.10.0",
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0",
+    "requirer": "0.0.4"
+  }
+}
